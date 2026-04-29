@@ -38,4 +38,4 @@ Developed a system that:
 - Cloud-based deployment
 
 ## Sample Interface
-![Sea-Time Analyzer](Maritime Seatime Analyzer.png)
+![Sea-Time Analyzer](screanshot-analyzer.png)
